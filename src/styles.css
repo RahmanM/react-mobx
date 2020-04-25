@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.add-todo {
+  border: solid 1px black;
+  background-color: lawngreen;
+  padding: 15px;
+}
+
+.todo-list {
+  border: solid 1px black;
+  background-color: burlywood;
+}
+
+.todo-list li {
+  list-style: none;
+  line-height: 2em;
+}
+
+.todo-list ul {
+  padding-inline-start: 15px;
+}
+
+.header {
+  border: 1px sold black;
+  padding: 10px 0 10px 0;
+  width: 100%;
+  margin-bottom: 20px;
+  background-color: blue;
+  height: 40px;
+}
+
+.brand {
+  padding-right: 20px;
+  font-size: 1.5em;
+}
+
+.counter {
+  background-color: yellowgreen;
+  padding: 5px;
+  float: right;
+  top: -10px;
+  position: relative;
+}
